@@ -12,7 +12,7 @@ int strlen = 0;
 int o;
 while (*s != '\0')
 {
-strlen ++;
+strlen++;
 s++;
 }
 s--;
